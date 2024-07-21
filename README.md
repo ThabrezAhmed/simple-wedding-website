@@ -1,4 +1,3 @@
-
 <p align="center"><a href="https://rudrashahdeo.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://rudrashahdeo.netlify.app/">शुभ विवाह</a> :ring: <br> <br>June 8, 2022<br> <a href="https://rudrashahdeo.netlify.app/">rudrashahdeo.netlify.app</a></h1>
 
@@ -9,29 +8,30 @@
 💙 **।। मांगलिक परिणयोत्सव ।।** 💙 <br>
 🥁 🎊 _रुद्र शाहदेव 💍 शांति सिंह_ 🎊 🥁
 
-This is the Hindi version of the [previous wedding invitation website](https://sonali.netlify.app/), I created for my elder sister's wedding. 
+This is the Hindi version of the [previous wedding invitation website](https://sonali.netlify.app/), I created for my elder sister's wedding.
 
 > **Download invitation card by [clicking here](https://github.com/vinitshahdeo/wedding-website/blob/main/invitation/Rudra-Shahdeo-Wedding.pdf?raw=true).**
 
 [![Wedding Website](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=Wedding-Invitation)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
-## Are you or your loved ones a *bride-to-be* or *groom-to-be*? 
+## Are you or your loved ones a _bride-to-be_ or _groom-to-be_?
+
 > Feel free to use this template to build your wedding website! Fork and make the following changes.
 
 To reuse this, follow the steps:
 
-- *Replace the date in `script.js` to have a timer running for your big day!*
+- _Replace the date in `script.js` to have a timer running for your big day!_
 
 ```js
 // Set the date we're counting down to
 var countDownDate = new Date("June 8, 2022 00:00:00").getTime();
 ```
 
-- *If you wish to change the track which plays on click, edit `index.html`*
+- _If you wish to change the track which plays on click, edit `index.html`_
 
 ```html
 <div class="music">
-   <audio src="./assets/mp3/background.mp3" id="my_audio" loop="loop"></audio> 
+  <audio src="./assets/mp3/background.mp3" id="my_audio" loop="loop"></audio>
 </div>
 ```
 
@@ -41,8 +41,7 @@ var countDownDate = new Date("June 8, 2022 00:00:00").getTime();
 
 Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)) :yellow_heart:
 
-> [!NOTE]
-> **Learn what I'm up to now at [vinitshahdeo.com](https://vinitshahdeo.com/)!**
+> [!NOTE] > **Learn what I'm up to now at [vinitshahdeo.com](https://vinitshahdeo.com/)!**
 
 <br><br>
 

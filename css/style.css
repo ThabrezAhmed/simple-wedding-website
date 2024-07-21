@@ -5,6 +5,7 @@
 		opacity: 0.9;
 		top: 0
 	}
+
 	100% {
 		opacity: 0.2;
 		top: 100%
@@ -16,6 +17,7 @@
 		opacity: 0.9;
 		top: 0
 	}
+
 	100% {
 		opacity: 0.2;
 		top: 100%
@@ -26,6 +28,7 @@
 	0% {
 		margin-left: 0
 	}
+
 	100% {
 		margin-left: -50%
 	}
@@ -35,6 +38,7 @@
 	0% {
 		margin-left: 0
 	}
+
 	100% {
 		margin-left: -50%
 	}
@@ -44,6 +48,7 @@
 	0% {
 		margin-left: 0
 	}
+
 	100% {
 		margin-left: -100%
 	}
@@ -53,6 +58,7 @@
 	0% {
 		margin-left: 0
 	}
+
 	100% {
 		margin-left: -100%
 	}
@@ -62,6 +68,7 @@
 	0% {
 		margin-left: 0
 	}
+
 	100% {
 		margin-left: 50%
 	}
@@ -71,6 +78,7 @@
 	0% {
 		margin-left: 0
 	}
+
 	100% {
 		margin-left: 50%
 	}
@@ -80,6 +88,7 @@
 	0% {
 		margin-left: 0
 	}
+
 	100% {
 		margin-left: 100%
 	}
@@ -89,6 +98,7 @@
 	0% {
 		margin-left: 0
 	}
+
 	100% {
 		margin-left: 100%
 	}
@@ -98,9 +108,11 @@
 	0% {
 		-webkit-transform: rotate(-5deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(28deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(3deg)
 	}
@@ -111,10 +123,12 @@
 		-ms-transform: rotate(-5deg);
 		transform: rotate(-5deg)
 	}
+
 	40% {
 		-ms-transform: rotate(28deg);
 		transform: rotate(28deg)
 	}
+
 	100% {
 		-ms-transform: rotate(3deg);
 		transform: rotate(3deg)
@@ -125,9 +139,11 @@
 	0% {
 		-webkit-transform: rotate(10deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(43deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(15deg)
 	}
@@ -138,10 +154,12 @@
 		-ms-transform: rotate(10deg);
 		transform: rotate(10deg)
 	}
+
 	40% {
 		-ms-transform: rotate(43deg);
 		transform: rotate(43deg)
 	}
+
 	100% {
 		-ms-transform: rotate(15deg);
 		transform: rotate(15deg)
@@ -152,9 +170,11 @@
 	0% {
 		-webkit-transform: rotate(15deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(56deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(22deg)
 	}
@@ -165,10 +185,12 @@
 		-ms-transform: rotate(15deg);
 		transform: rotate(15deg)
 	}
+
 	40% {
 		-ms-transform: rotate(56deg);
 		transform: rotate(56deg)
 	}
+
 	100% {
 		-ms-transform: rotate(22deg);
 		transform: rotate(22deg)
@@ -179,9 +201,11 @@
 	0% {
 		-webkit-transform: rotate(25deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(74deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(37deg)
 	}
@@ -192,10 +216,12 @@
 		-ms-transform: rotate(25deg);
 		transform: rotate(25deg)
 	}
+
 	40% {
 		-ms-transform: rotate(74deg);
 		transform: rotate(74deg)
 	}
+
 	100% {
 		-ms-transform: rotate(37deg);
 		transform: rotate(37deg)
@@ -206,9 +232,11 @@
 	0% {
 		-webkit-transform: rotate(40deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(68deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(25deg)
 	}
@@ -219,10 +247,12 @@
 		-ms-transform: rotate(40deg);
 		transform: rotate(40deg)
 	}
+
 	40% {
 		-ms-transform: rotate(68deg);
 		transform: rotate(68deg)
 	}
+
 	100% {
 		-ms-transform: rotate(25deg);
 		transform: rotate(25deg)
@@ -233,9 +263,11 @@
 	0% {
 		-webkit-transform: rotate(50deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(78deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(40deg)
 	}
@@ -246,10 +278,12 @@
 		-ms-transform: rotate(50deg);
 		transform: rotate(50deg)
 	}
+
 	40% {
 		-ms-transform: rotate(78deg);
 		transform: rotate(78deg)
 	}
+
 	100% {
 		-ms-transform: rotate(40deg);
 		transform: rotate(40deg)
@@ -260,9 +294,11 @@
 	0% {
 		-webkit-transform: rotate(65deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(92deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(58deg)
 	}
@@ -273,10 +309,12 @@
 		-ms-transform: rotate(65deg);
 		transform: rotate(65deg)
 	}
+
 	40% {
 		-ms-transform: rotate(92deg);
 		transform: rotate(92deg)
 	}
+
 	100% {
 		-ms-transform: rotate(58deg);
 		transform: rotate(58deg)
@@ -287,9 +325,11 @@
 	0% {
 		-webkit-transform: rotate(72deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(118deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(68deg)
 	}
@@ -300,10 +340,12 @@
 		-ms-transform: rotate(72deg);
 		transform: rotate(72deg)
 	}
+
 	40% {
 		-ms-transform: rotate(118deg);
 		transform: rotate(118deg)
 	}
+
 	100% {
 		-ms-transform: rotate(68deg);
 		transform: rotate(68deg)
@@ -314,9 +356,11 @@
 	0% {
 		-webkit-transform: rotate(94deg)
 	}
+
 	40% {
 		-webkit-transform: rotate(136deg)
 	}
+
 	100% {
 		-webkit-transform: rotate(82deg)
 	}
@@ -327,10 +371,12 @@
 		-ms-transform: rotate(94deg);
 		transform: rotate(94deg)
 	}
+
 	40% {
 		-ms-transform: rotate(136deg);
 		transform: rotate(136deg)
 	}
+
 	100% {
 		-ms-transform: rotate(82deg);
 		transform: rotate(82deg)
@@ -477,11 +523,12 @@ body {
 	width: auto;
 	height: auto;
 	background-color: #674ea7;
-	border-radius: 16px;
+	border-radius: 10px;
 	text-align: center;
 	color: #fff;
-	padding: 8px;
+	padding: 12px;
 	margin-right: 8px;
+	font-size: 20px;
 }
 
 .venue a {
